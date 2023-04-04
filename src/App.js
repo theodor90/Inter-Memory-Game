@@ -3,12 +3,12 @@ import './App.css';
 import SingleCard from './components/SingleCard';
 
 const cardImages = [
-  {"src": "/public/img/Barella.png", matched: false },
-  {"src": "/public/img/Bastoni.png", matched: false },
-  {"src": "/public/img/Brozovic.png", matched: false },
-  {"src": "/public/img/DiMarco.png", matched: false },
-  {"src": "/public/img/Lautaro.png", matched: false },
-  {"src": "/public/img/Onana.png", matched: false }
+  {"src": "./public/img/Barella.png", matched: false },
+  {"src": "./public/img/Bastoni.png", matched: false },
+  {"src": "./public/img/Brozovic.png", matched: false },
+  {"src": "./public/img/DiMarco.png", matched: false },
+  {"src": "./public/img/Lautaro.png", matched: false },
+  {"src": "./public/img/Onana.png", matched: false }
 ]
 
 function App() {
